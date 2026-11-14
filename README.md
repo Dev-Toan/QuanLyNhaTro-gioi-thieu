@@ -15,7 +15,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-0.8.0-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 
-[Tính năng](#-tính-năng) · [Ảnh màn hình](#-ảnh-màn-hình) · [Kiến trúc](#-kiến-trúc) · [Công nghệ](#-công-nghệ) · [Lộ trình](#-lộ-trình)
+[Tính năng](#-tính-năng) · [Ảnh màn hình](#-ảnh-màn-hình) · [Kiến trúc](#-kiến-trúc) · [Công nghệ](#-công-nghệ)
 
 </div>
 
@@ -146,24 +146,6 @@ Contract API (OpenAPI) viết tay trước khi code và là nguồn sự thật.
 - Giao diện và thông báo lỗi tiếng Việt.
 - Tiền là số nguyên VND. Múi giờ `Asia/Ho_Chi_Minh`. Ngày `yyyy-MM-dd`, kỳ hóa đơn `yyyy-MM`.
 - Mỗi giai đoạn đều qua review code, kiểm tra trên hệ thống thật, đối chiếu số liệu báo cáo với cơ sở dữ liệu.
-
-## 📍 Lộ trình
-
-- ✅ Giai đoạn 0: nền móng
-- ✅ Giai đoạn 1: dãy, phòng, khách, hợp đồng, phân quyền
-- ✅ Giai đoạn 2: điện nước, hóa đơn, thanh toán
-- ✅ Giai đoạn 3: kiểm soát và vận hành
-- ✅ Giai đoạn 4: báo cáo và hoàn thiện
-- 🚧 Giai đoạn 5: Zalo Mini App và tin nhắn Zalo
-  - ✅ Contract 0.8.0 và kênh Zalo ở backend
-  - 🚧 Mini App bản Development: code xong, chờ thử trên điện thoại thật
-  - ⬜ Zalo App, OA, tester và tunnel HTTPS
-  - ⬜ Gửi tin qua OA thật
-  - ⬜ Phát hành Mini App, cần tên miền HTTPS và xác thực OA
-
-**Còn lại:** chạy app Android trên máy thật, gắn Firebase để có push thật, triển khai lên máy chủ có tên miền và HTTPS.
-
-**Để sau:** đối soát ngân hàng tự động, OCR CCCD và đồng hồ, khóa cửa thông minh, trang rao phòng trống, iOS.
 
 ## 📄 Giấy phép
 
