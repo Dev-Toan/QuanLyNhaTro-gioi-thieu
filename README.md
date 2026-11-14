@@ -15,7 +15,10 @@
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-0.8.0-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 
-[Tính năng](#-tính-năng) · [Ảnh màn hình](#-ảnh-màn-hình) · [Kiến trúc](#-kiến-trúc) · [Công nghệ](#-công-nghệ)
+<a href="mailto:toanit5.haui@gmail.com"><img src="https://img.shields.io/badge/Email-toanit5.haui%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://zalo.me/0773332973"><img src="https://img.shields.io/badge/Zalo-0773332973-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" /></a>
+
+[Tính năng](#-tính-năng) · [Ảnh màn hình](#-ảnh-màn-hình) · [Kiến trúc](#-kiến-trúc) · [Công nghệ](#-công-nghệ) · [Liên hệ](#-liên-hệ)
 
 </div>
 
@@ -146,6 +149,15 @@ Contract API (OpenAPI) viết tay trước khi code và là nguồn sự thật.
 - Giao diện và thông báo lỗi tiếng Việt.
 - Tiền là số nguyên VND. Múi giờ `Asia/Ho_Chi_Minh`. Ngày `yyyy-MM-dd`, kỳ hóa đơn `yyyy-MM`.
 - Mỗi giai đoạn đều qua review code, kiểm tra trên hệ thống thật, đối chiếu số liệu báo cáo với cơ sở dữ liệu.
+
+## 📬 Liên hệ
+
+Cần tìm hiểu thêm, xem demo hay trao đổi về hệ thống, liên hệ:
+
+| Kênh | Thông tin |
+|---|---|
+| 📧 Email | [toanit5.haui@gmail.com](mailto:toanit5.haui@gmail.com) |
+| 💬 Zalo | [0773332973](https://zalo.me/0773332973) |
 
 ## 📄 Giấy phép
 
