@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Quản lý nhà trọ">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A9078"/>
+      <stop offset="0.55" stop-color="#1F6F5C"/>
+      <stop offset="1" stop-color="#0F3D33"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <circle cx="1090" cy="30" r="190" fill="#FFFFFF" opacity="0.06"/>
+    <circle cx="820" cy="340" r="150" fill="#FFFFFF" opacity="0.05"/>
+
+    <g transform="translate(800 92)">
+      <rect x="0" y="0" width="330" height="228" rx="12" fill="#FFFFFF" opacity="0.12"/>
+      <rect x="-14" y="-14" width="358" height="20" rx="8" fill="#FFFFFF" opacity="0.28"/>
+
+      <g fill="#FFFFFF" opacity="0.32">
+        <rect x="26" y="30" width="54" height="46" rx="6"/>
+        <rect x="170" y="30" width="54" height="46" rx="6"/>
+        <rect x="26" y="96" width="54" height="46" rx="6"/>
+        <rect x="98" y="96" width="54" height="46" rx="6"/>
+        <rect x="242" y="96" width="54" height="46" rx="6"/>
+        <rect x="170" y="162" width="54" height="46" rx="6"/>
+      </g>
+      <g fill="#FFD479" opacity="0.95">
+        <rect x="98" y="30" width="54" height="46" rx="6"/>
+        <rect x="242" y="30" width="54" height="46" rx="6"/>
+        <rect x="170" y="96" width="54" height="46" rx="6"/>
+        <rect x="26" y="162" width="54" height="46" rx="6"/>
+        <rect x="242" y="162" width="54" height="46" rx="6"/>
+      </g>
+      <rect x="98" y="162" width="54" height="66" rx="6" fill="#0F3D33" opacity="0.75"/>
+    </g>
+
+    <g font-family="'Be Vietnam Pro','Segoe UI','Helvetica Neue',Arial,sans-serif" fill="#FFFFFF">
+      <text x="72" y="142" font-size="68" font-weight="700">Quản lý nhà trọ</text>
+      <text x="74" y="192" font-size="26" opacity="0.92">Điện nước, hóa đơn, thu tiền, đối chiếu</text>
+      <text x="74" y="228" font-size="26" opacity="0.92">gọn trong một hệ thống</text>
+      <text x="74" y="274" font-size="18" letter-spacing="1" opacity="0.72">WEB  ·  ANDROID  ·  ZALO MINI APP</text>
+    </g>
+  </g>
+</svg>
